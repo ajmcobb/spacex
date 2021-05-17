@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  SpaceX
+
+  Created by Aurelien Cobb on 15/05/2021.
+  
+*/
+
+"title" = "SpaceX";
+"Mission" = "Mission:";
+"DateTime" = "Date / Time:";
+"Rocket" = "Rocket:";
+"DaysFrom" = "Days %@ now:";
+"PastIndicator" = "from";
+"Days" = "%@ days";
+"Day" = "%@ day";
+"FutureIndicator" = "since";
+"Company" = "Company";
+"Launches" = "Launches";
+"FilterYear" = "Year:";
+"FilterSuccess" = "Successful:";
+"FilterFailed" = "Unsuccessful:";
+"Ascending" = "Ascending";
+"Descending" = "Descending";
+"All" = "All";
+"Info" = "%@ was founded by %@ in %@. It has now %@ employees, %@ launch sites, and is valued at USD %@";
+
+"SelectLink" = "Select Link";
+"Article" = "Article";
+"Wikipedia" = "Wikipedia";
+"Video" = "Video";
+"Cancel" = "Cancel";
